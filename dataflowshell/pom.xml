@@ -5,6 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>data-flow-shell</artifactId>
+    <groupId>com.poc</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <parent>
         <artifactId>spring-cloud-data-flow</artifactId>

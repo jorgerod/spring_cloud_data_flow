@@ -19,8 +19,7 @@
     <modules>
         <module>dataflowserver</module>
         <module>dataflowshell</module>
-        <!-- <module>data-flow-shell</module> -->
-        <!--<module>time-source</module>-->
+        <module>timesource</module>
         <!--<module>time-processor</module>-->
         <!--<module>log-sink</module>-->
         <!--<module>batch-job</module>-->
