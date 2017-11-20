@@ -6,6 +6,9 @@
     http://www.baeldung.com/spring-cloud-data-flow-stream-processing
     https://github.com/eugenp/tutorials/tree/master/spring-cloud-data-flow
     
+    https://dzone.com/articles/data-mart-with-spring-cloud-data-flow
+    https://github.com/wkennedy/spring-data-flow-example
+    
     
 Pasos
 1. Cargar entorno
